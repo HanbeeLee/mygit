@@ -1,2 +1,2 @@
-# python연습
+# python_study
 # mygit
