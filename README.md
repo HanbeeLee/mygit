@@ -1,2 +1,2 @@
-# python
+# python_study
 # mygit
